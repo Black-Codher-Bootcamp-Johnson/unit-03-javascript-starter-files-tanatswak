@@ -15,3 +15,12 @@ function conversation() {
     
 }
 conversation()
+function futureAge(x,y) {
+    console.log(x)
+    console.log(y)
+    const answer = x + 5;
+    console.log(y + "Your age in 5 years time will be" + answer)
+    return y + " Your age in 5 years time will be" + answer
+   
+}
+futureAge(22, "Mary")
