@@ -57,3 +57,8 @@ console.log("Division: x + y " + division);
 
 
 // ****************************************************TASK 3****************************************************
+const age = 17;
+const driving = 17;
+
+const abletodrive = (age >= driving)
+console.log('Can I legally drive at my age?' + abletodrive)
